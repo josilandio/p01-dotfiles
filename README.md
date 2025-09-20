@@ -1,5 +1,5 @@
 <h2 style="text-align:center">
-  <samp>DOTFILES</samp>
+  <samp>DOTFILES: development environment</samp>
 </h2>
 
 <h3>License</h3>
